@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:title="Top Headlines"
+            android:icon="@drawable/ic_headline"/>
+
+        <item
+            android:id="@+id/item2"
+            android:title="Sports"
+            android:icon="@drawable/ic_sports_soccer"/>
+
+        <item
+            android:id="@+id/item3"
+            android:title="Technology"
+            android:icon="@drawable/ic_phonelink"/>
+
+        <item
+            android:id="@+id/item4"
+            android:title="Entertainment"
+            android:icon="@drawable/ic_entertainment"/>
+
+
+        <item
+            android:id="@+id/item5"
+            android:title="Business"
+            android:icon="@drawable/ic_business"/>
+
+        <item
+            android:id="@+id/item6"
+            android:title="Health and Fitess"
+            android:icon="@drawable/ic_fitness"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/test1"
+                android:title="Share"
+                android:icon="@drawable/ic_share"/>
+
+        </menu>
+    </item>
+</menu>
