@@ -21,13 +21,13 @@
 ![top_headlines screenshot](app/ScreenShots/top_headlines.jpg)
 
 - ##### navigation_drawer
-<img src="app/ScreenShots/navigation_drawer.jpg>
+<img src="app/ScreenShots/navigation_drawer.jpg"  width="40%">
 
 - ##### technology
-<img src="app/ScreenShots/technology.jpg>
+<img src="app/ScreenShots/technology.jpg" width="40%">
 
 - ##### top_headlines
-<img src="app/ScreenShots/top_headlines.jpg>
+<img src="app/ScreenShots/top_headlines.jpg" width="40%">
 
 ## Contact
 Created by [@Neeraj Pandey](https://github.com/neerajp67/) - feel free to contact me!
