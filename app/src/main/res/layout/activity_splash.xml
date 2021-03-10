@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="50dp"
         android:gravity="center"
-        android:text="Adverse"
+        android:text="fukset"
         android:textColor="@color/medium_blue"
         android:textStyle="bold"
         android:textSize="28sp"

@@ -234,7 +234,7 @@ public class MainActivity extends AppCompatActivity {
                 ShareCompat.IntentBuilder.from(MainActivity.this)
                         .setType("text/plain")
                         .setChooserTitle("News Reader")
-                        .setText("code for News Reader app is available at https://github.com/neerajp67/News-Reader.. stay connected  with us on https://github.com/neerajp67/News-Reader ")
+                        .setText("code for News Reader app is available at https://github.com/neerajp67/News-Reader\nstay connected  with us on https://github.com/neerajp67/ for more exiting projects.. ")
                         .startChooser();
                 break;
         }

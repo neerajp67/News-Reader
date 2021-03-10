@@ -32,6 +32,4 @@ public class WebActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl(url);
     }
-
-
 }
