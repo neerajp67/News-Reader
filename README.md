@@ -16,9 +16,6 @@
 * Category wise news
 
 ## Screenshots
-![navigation_drawer screenshot](app/ScreenShots/navigation_drawer.jpg)
-![technology screenshot](app/ScreenShots/technology.jpg)
-![top_headlines screenshot](app/ScreenShots/top_headlines.jpg)
 
 - ##### navigation_drawer
 <img src="app/ScreenShots/navigation_drawer.jpg"  width="40%">
