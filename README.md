@@ -16,18 +16,18 @@
 * Category wise news
 
 ## Screenshots
-![navigation_drawer screenshot](.ScreenShots/navigation_drawer.jpg)
-![technology screenshot](.ScreenShots/technology.jpg)
-![top_headlines screenshot](.ScreenShots/top_headlines.jpg)
+![navigation_drawer screenshot](app/ScreenShots/navigation_drawer.jpg)
+![technology screenshot](app/ScreenShots/technology.jpg)
+![top_headlines screenshot](app/ScreenShots/top_headlines.jpg)
 
 - ##### navigation_drawer
-<img src=".ScreenShots/navigation_drawer.jpg" width="40%">
+<img src="app/ScreenShots/navigation_drawer.jpg>
 
 - ##### technology
-<img src=".ScreenShots/technology.jpg" width="40%">
+<img src="app/ScreenShots/technology.jpg>
 
 - ##### top_headlines
-<img src=".ScreenShots/top_headlines.jpg" width="40%">
+<img src="app/ScreenShots/top_headlines.jpg>
 
 ## Contact
 Created by [@Neeraj Pandey](https://github.com/neerajp67/) - feel free to contact me!
